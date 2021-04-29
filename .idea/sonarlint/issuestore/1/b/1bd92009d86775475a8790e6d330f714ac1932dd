@@ -1,0 +1,9 @@
+
+w
+java:S4144"ZUpdate this method so that its implementation is not identical to "payViaCard" on line 24.(§÷ÿ8ô¾‚Œˆ/
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ªÕäşÿÿÿÿ8§æïõ†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“­ğÉ8Ù¯­ğ†/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³ú§âÿÿÿÿÿ8ı¿å†/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(“­ğÉ8ÿŞş‹ˆ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(³ú§âÿÿÿÿÿ8€çÈå†/
